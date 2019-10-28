@@ -1,4 +1,14 @@
 ## 원본 출처 : https://github.com/thtrieu/darkflow
+-----
+## Usage
+
+import yolov2
+
+yolo = yolov2.YOLOV2()
+yolo.append_to_list(img)
+yolo.inference()
+
+-----
 
 
 
