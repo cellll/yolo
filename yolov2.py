@@ -10,7 +10,7 @@ import subprocess
 #os.environ['CUDA_VISIBLE_DEVICES']='0'
 
 
-class YOLOV2_XIILAB:
+class YOLOV2:
     
     def __init__(self):
         options = {"model": "/root/object_detection/yolo2/cfg/yolov2-tiny.cfg", 
