@@ -2,11 +2,13 @@
 -----
 ## Usage
 
+<pre><code>
 import yolov2
 
 yolo = yolov2.YOLOV2()
 yolo.append_to_list(img)
-yolo.inference()
+yolo.inference() 
+</code></pre>
 
 -----
 
